@@ -25,4 +25,3 @@
 
 - 🔭 I’m currently studying Software Engineering at ETS Montréal.
 - 🌱 I’m currently learning Software Engineering, DevOps, Software Architecture, etc
-- 🤝 Enrolled in the Cédille student club at ÉTS.
